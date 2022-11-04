@@ -1,8 +1,8 @@
 function resize(){
     img = document.getElementById("GP");
 
-    img.style.height = resize ? "250" : "500";
-    resize = resize ? false : true;
+    img.style.height = bool ? "250" : "500";
+    bool = bool ? false : true;
 }
 
-let resize = false;
+let bool = false;
