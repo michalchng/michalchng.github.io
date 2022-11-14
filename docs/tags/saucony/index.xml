@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on michalchng</title>
-    <link>https://michalchng.github.io/posts/</link>
-    <description>Recent content in Posts on michalchng</description>
+    <title>Saucony on michalchng</title>
+    <link>https://michalchng.github.io/tags/saucony/</link>
+    <description>Recent content in Saucony on michalchng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://michalchng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dynastar Legend X88</title>
-      <link>https://michalchng.github.io/posts/dynastar-legend/</link>
-      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://michalchng.github.io/posts/dynastar-legend/</guid>
-      <description>First impressions: Good looking, shorter than advertised Last impressions: Stiff long tails offer great stability in steep backcountry terrain</description>
-    </item>
-    
+    <lastBuildDate>Sun, 13 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://michalchng.github.io/tags/saucony/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Saucony Endorphin Pro Icon</title>
       <link>https://michalchng.github.io/posts/endorphin-pro/</link>

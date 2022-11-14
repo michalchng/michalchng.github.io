@@ -2,18 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://michalchng.github.io/tags/dynastar/</loc>
+    <lastmod>2022-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://michalchng.github.io/posts/dynastar-legend/</loc>
+    <lastmod>2022-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://michalchng.github.io/</loc>
-    <lastmod>2022-11-10T19:51:54-05:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2022-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://michalchng.github.io/posts/</loc>
-    <lastmod>2022-11-10T19:51:54-05:00</lastmod>
+    <lastmod>2022-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://michalchng.github.io/posts/kinvara-11/</loc>
-    <lastmod>2022-11-10T19:51:54-05:00</lastmod>
+    <loc>https://michalchng.github.io/tags/running/</loc>
+    <lastmod>2022-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://michalchng.github.io/categories/</loc>
+    <loc>https://michalchng.github.io/tags/saucony/</loc>
+    <lastmod>2022-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://michalchng.github.io/posts/endorphin-pro/</loc>
+    <lastmod>2022-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://michalchng.github.io/tags/skiing/</loc>
+    <lastmod>2022-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://michalchng.github.io/tags/</loc>
+    <lastmod>2022-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://michalchng.github.io/posts/kinvara-11/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://michalchng.github.io/categories/</loc>
   </url>
 </urlset>
