@@ -1,13 +1,8 @@
 baseURL = 'https://michalchng.github.io/'
 languageCode = 'en-us'
 title = 'michalchng'
-theme = "papermod"
+theme = "hugo-papermod"
 publishDir = "docs"
-
-[[languages.en.menu.main]]
-name = "Tags"
-url = "tags/"
-weight = 10
 
 [params.homeInfoParams]
 Title = "Welcome to my blog!"
