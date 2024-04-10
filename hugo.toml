@@ -2,3 +2,4 @@ baseURL = 'https://michalchng.github.io/'
 languageCode = 'en-ca'
 title = 'Michael Cheng'
 theme = 'beautifulhugo'
+publishDir = "public"
